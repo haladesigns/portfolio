@@ -4,21 +4,23 @@
 
 ### Data Science
 
-[Computer Vision ](https://github.com/haladesigns/ComputerVision)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Machine Learning for Text](https://github.com/haladesigns/Machine-Learning-for-Text)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Time Series](https://github.com/haladesigns/TimeSeries)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Time-Series/Trend Seasonality Residuals.png?raw=true"/>
 
 ---
 
 [Streamlit](https://github.com/haladesigns/Streamlit)
 <img src="images/Streamlit/Price vs Odometer (Scatter).png?raw=true"/>
+
+---
+
+[Machine Learning for Text](https://github.com/haladesigns/Machine-Learning-for-Text)
+<img src="images/ML-for-Text/Distribution of Reviews.png?raw=true"/>
+
+---
+[Computer Vision ](https://github.com/haladesigns/ComputerVision)
+<img src="images/Computer Vision/Age Distribution.png?raw=true"/>
+
 
 ---
 
