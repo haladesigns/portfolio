@@ -18,7 +18,7 @@
 ---
 
 [Streamlit](https://github.com/haladesigns/Streamlit)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Streamlit/Price vs Odometer (Scatter).png?raw=true"/>
 
 ---
 
